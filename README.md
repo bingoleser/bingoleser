@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eser Bingol</h1>
+<h1 align="center">Hi 👋, I'm Eser</h1>
 <h3 align="center">JS, React</h3>
 
 ![RZItc3Kzr](https://user-images.githubusercontent.com/126207377/221245319-418fdcd0-0752-4803-a9fc-e6c56dbf3460.jpeg)
