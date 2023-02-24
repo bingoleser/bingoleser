@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bingoleser21@gmail.com**
 
-<h3 align="left">Connect with me:</h3>![RZItc3Kzr](https://user-images.githubusercontent.com/126207377/221245299-8af7bed5-0477-4fc1-b112-a2ecf1b4a191.jpeg)
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eser-bingol-a14904150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eser-bingol-a14904150/" height="30" width="40" /></a>
